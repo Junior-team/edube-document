@@ -15,41 +15,25 @@
 - 📜 [API Document](https://documenter.getpostman.com/view/16596703/UVJWoyrR)
 - 📱 [Prototype]()
 
+#### **🗂 Repositories** 
 
-#### **🌐 Front-End by 신혜리** 
-- 🛠 [Skill Spec]()
-- 📁 [디렉토리 구조]()
-- 🔎 [핵심 기능 구현]()
-- 🎇 [트러블 슈팅]()
-
-
-#### **🌐 Back-End(Node.js) by 조준기** 
-- 🛠 [Skill Spec]()
-- 📁 [디렉토리 구조]()
-- 🔎 [핵심 기능 구현]()
-- 🎇 [트러블 슈팅]()
-
-#### **🌐 Back-End(Java) by 이용선** 
-- 🛠 [Skill Spec]()
-- 📁 [디렉토리 구조]()
-- 🔎 [핵심 기능 구현]()
-- 🎇 [트러블 슈팅]()
-
-#### **🌐 Back-End(Java-Chatbot) by 정수범** 
-- 🛠 [Skill Spec]()
-- 📁 [디렉토리 구조]()
-- 🔎 [핵심 기능 구현]()
-- 🎇 [트러블 슈팅]()
+| 🌐 Front-End | 🌐 Back-End(Java) | 🌐 Back-End(Java-Chatbot) | 🌐 Back-End(Node.js) |
+| :--------: | :--------: | :--------: | :--------: |
+|[신혜리(rachel490)](https://github.com/rachel490)|[이용선(dldydtjs2965)](https://github.com/dldydtjs2965)|[정수범(Jsim6342)](https://github.com/Jsim6342)|[조준기(jknadan)](https://github.com/jknadan) |
+|🛠 [Skill Spec]()|🛠 [Skill Spec]()|🛠 [Skill Spec]()|🛠 [Skill Spec]()|
+|📁 [디렉토리 구조]()|📁 [디렉토리 구조]()|📁 [디렉토리 구조]()|📁 [디렉토리 구조]()|
+|🔎 [핵심 기능 구현]()|🔎 [핵심 기능 구현]()|🔎 [핵심 기능 구현]()|🔎 [핵심 기능 구현]()|
+|🎇 [트러블 슈팅]()|🎇 [트러블 슈팅]()|🎇 [트러블 슈팅]()|🎇 [트러블 슈팅]()|
 
 <br>
 
 ## 💡 주요 기능 💡
 
-#### **💰 분야별 영상 제공 서비스** 
+#### **📽 분야별 영상 제공 서비스** 
 - 마이페이지에서 관심 분야 등록
 - 기획, 개발, 디자인 등 관심 분야에 맞춰 영상 분류 및 제공
 
-#### **⏰ 영상 추천 서비스** 
+#### **🎞 영상 추천 서비스** 
 - 카카오톡 챗봇 서비스를 통해 매일 관심 분야의 영상을 추천
 
 
